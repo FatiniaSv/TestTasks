@@ -1,3 +1,3 @@
 
-rootProject.name = "TestTask"
+rootProject.name = "Test"
 
